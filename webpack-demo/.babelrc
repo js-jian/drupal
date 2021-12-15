@@ -1,0 +1,4 @@
+// .babelrc文件需要安装babel-core，babel-loader，babel-preset-env，babel-preset-react
+{
+    "presets": ["env", "react"]
+}

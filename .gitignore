@@ -4,6 +4,9 @@
 /node_modules
 /npm-debug.log*
 
+/webpack-demo/node_modules
+/webpack-demo/dist
+
 # production
 /dist
 
